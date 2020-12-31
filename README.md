@@ -1,6 +1,8 @@
 # pixels
 Repositório de ícones feitos em pixel art utilizando a ferramenta Piskel.
 
+Os ícones estão agrupados de acordo com as categorias: Colored, Dark e Light conforme ilustram as figuras abaixo.
+
 <div>
   <h3>Icons Colored</h3>
   <img alt="Pixels" title="Icons Colored" src="./README/demo/icons_colored.png" />
