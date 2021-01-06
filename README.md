@@ -1,5 +1,5 @@
-# pixels
-Repositório de ícones feitos em pixel art utilizando a ferramenta Piskel.
+# pixelwars
+Repositório de ícones de Star Wars e de desenvolvedor feitos em pixel art utilizando a ferramenta Piskel.
 
 Os ícones estão agrupados de acordo com as categorias: Colored, Dark e Light conforme ilustram as figuras abaixo.
 
